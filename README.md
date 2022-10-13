@@ -12,7 +12,7 @@
 ---
 
 # Grupo
-- [Matheus Vital](https://github.com/VitalMatheus))
+- [Matheus Vital](https://github.com/VitalMatheus)
 - [Vinicius Gomes](https://github.com/ViniGB)
 - [Lucas Nascimento](https://github.com/LucasNascimento1609)
 - [Vitor Memoria](https://github.com/VitorVM53)
