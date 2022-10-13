@@ -9,6 +9,15 @@
 
   OBS: Arquivos de configuração do setup do projeto e o arquivo de exemplo para criação do banco de dados `db.example.sql` foram fornecidos pela equipe da Trybe.
 
+---
+
+# Grupo
+- [Alex Horman](https://github.com/Alex-Horman-de-Medeiros-Correia)
+- [Vinicius Gomes](https://github.com/ViniGB)
+- [Lucas Nascimento](https://github.com/LucasNascimento1609)
+- [Vitor Memoria](https://github.com/VitorVM53)
+
+---
   
 
 
